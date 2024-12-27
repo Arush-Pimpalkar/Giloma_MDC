@@ -1,0 +1,4 @@
+1. there are multiple ROIs in a single image.
+
+
+Training - 
