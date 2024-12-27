@@ -2,3 +2,12 @@
 
 
 Training - 
+
+file size made from the image data: 
+0001 : 512x512
+0002 to 0179: 1015x1015
+0179 to 1439: 512x512
+
+
+green = non mitosis
+red = mitosis
