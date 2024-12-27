@@ -11,3 +11,7 @@ file size made from the image data:
 
 green = non mitosis
 red = mitosis
+
+
+anamolies: 
+0065
